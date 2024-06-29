@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 1- Clone the project
 
 ```
-git clone https://github.com/kareemaladawy/laravel.git
+git clone https://github.com/Thapelo-Laroc/laravel-quiz-system.git
 ```
 
 2- Install the dependencies
@@ -91,7 +91,7 @@ To run tests, run the following command
 
 ## Authors
 
--   [@kareemalaadwy](https://www.github.com/kareemalaadwy)
+-   [@Thapelo-Laroc](https://www.github.com/Thapelo-Laroc)
 
 ## Contributing
 
